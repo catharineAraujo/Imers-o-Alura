@@ -1,0 +1,29 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%;
+    font-family: sans-serif;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
